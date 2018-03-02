@@ -1,4 +1,4 @@
-### CommentAuth
+# CommentAuth
 Create a command line based app that lets users create an account and log in.
 a user can add and edit their comment.
 a moderator can add a comment. Also edit their own comments and finally delete any comment.
